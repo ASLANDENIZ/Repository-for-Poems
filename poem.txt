@@ -6,4 +6,5 @@ blue
 yellow
 purple
 orange
+braun
 these are the colours of the rainbow.
